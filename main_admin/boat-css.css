@@ -1,0 +1,134 @@
+﻿li a {
+	line-height:10px;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:18px;
+}
+
+li a:hover {
+	font-weight:bolder;
+	text-decoration:none;
+}
+
+#articles a {
+	color:white;
+	font-size:28px;
+}
+
+#articles a:hover {
+	text-decoration:none;
+	font-weight:bolder;
+	text-decoration:none;
+	color:black;
+}
+
+
+.fa {
+	text-decoration:none;
+	color:black;
+}
+
+.fa:hover {
+	text-decoration:none;
+	color:white;
+}
+
+
+
+
+#article1 {
+	background-color:#006BD7;
+	padding:35px;
+}
+
+#article2 {
+	background-color:#FF6AFF;
+	padding:35px;
+}
+
+#article3 {
+	background-color:#5cb85c;
+	padding:35px;
+}
+
+#logout {
+	background-color:#FF0D0D;
+	padding:35px;
+}
+
+#article1-element {
+  display: none;
+  font-size: 24px;
+  margin-top: 10px;
+  padding: 5px;
+  border: 5px solid white
+}
+
+#article1-element p {
+	color:white;
+}
+
+
+#article1:hover #article1-element {
+  display: block;
+}
+
+#article2-element {
+  display: none;
+  font-size: 20px;
+  margin-top: 10px;
+  padding: 5px;
+  border: 5px solid white
+}
+
+#article2:hover #article2-element {
+  display: block;
+}
+
+
+#article3-element {
+  display: none;
+  font-size: 20px;
+  margin-top: 10px;
+  padding: 5px;
+  border: 5px solid white
+}
+
+#article3:hover #article3-element {
+  display: block;
+}
+
+#logout-element {
+  display: none;
+  font-size: 20px;
+  margin-top: 10px;
+  padding: 5px;
+  border: 5px solid white;
+  color:white;
+}
+
+#logout:hover #logout-element {
+  display: block;
+}
+
+
+
+#boat-rental {
+	list-style-type:none;
+}
+
+#boat-rental li a {
+	color:black;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+

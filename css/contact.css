@@ -1,0 +1,57 @@
+﻿@import url(http://fonts.googleapis.com/css?family=Lato);
+
+textarea {
+	font:1rem Lato, sans-serif;
+}
+
+label,
+input,
+textarea {
+	display:block;
+}
+
+input,
+textarea {
+	padding:10px;
+	width:100%;
+	box-sizing:border-box;
+}
+
+label input,
+label textarea {
+	margin-top:10px;
+}
+
+label {
+	margin-bottom:20px;
+}
+
+input[type=submit], button {
+	width:auto;
+}
+
+.muted {
+	color:#aaa;
+}
+
+/* Components */
+
+.contact {
+	width:100%;
+	max-width:500px;
+	border-top:1px soild #eee;
+	border-bottom:1px soild #eee;
+	padding:30px 20px;
+	box-sizing:border-box;	
+}
+
+.panel {
+	border:1px solid #ddd;
+	background:#f0f0f0;
+	margin-bottom:20px;
+	padding:20px;
+}
+
+
+
+
